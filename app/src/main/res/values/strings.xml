@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+    <string-array name="person_name">
+        <item>"John"</item>
+        <item>"James"</item>
+        <item>"Stuart"</item>
+        <item>"Messi"</item>
+        <item>"Enrique"</item>
+        <item>"Akon"</item>
+        <item>"Pitbull"</item>
+        <item>"Angelina"</item>
+        <item>"Diva"</item>
+        <item>"Emma"</item>
+
+    </string-array>
+
+    <string-array name="person_email">
+        <item>"john@abc.com"</item>
+        <item>"james@abc.com"</item>
+        <item>"stuart@abc.com"</item>
+        <item>"messi@bc.com"</item>
+        <item>"Enrique@vivo.com"</item>
+        <item>"Akon@vivo.com"</item>
+        <item>"Pitbull@vodka.com"</item>
+        <item>"Angelina@sin.com"</item>
+        <item>"Diva@secret.com"</item>
+        <item>"Emma@love.com"</item>
+
+    </string-array>
+    <string-array name="person_mobile">
+        <item>"7777777777"</item>
+        <item>"8888888888"</item>
+        <item>"9898989898"</item>
+        <item>"1234567890"</item>
+        <item>"0123456789"</item>
+        <item>"1234569870"</item>
+        <item>"0123654789"</item>
+        <item>"9874563210"</item>
+        <item>"6547893210"</item>
+        <item>"3210456987"</item>
+
+    </string-array>
+
+
+</resources>
